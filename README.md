@@ -1,3 +1,4 @@
 # Blog
 
-This is my daily learning notes.
+ Haha~, This is my daily learning notes.
+
